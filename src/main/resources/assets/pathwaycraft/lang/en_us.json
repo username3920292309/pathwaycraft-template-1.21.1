@@ -1,0 +1,13 @@
+{
+  "itemGroup.pathwaycraft": "Example Mod Tab",
+  "block.pathwaycraft.example_block": "Example Block",
+  "item.pathwaycraft.example_item": "Example Item",
+
+  "pathwaycraft.configuration.title": "PathwayCraft Configs",
+  "pathwaycraft.configuration.section.pathwaycraft.common.toml": "PathwayCraft Configs",
+  "pathwaycraft.configuration.section.pathwaycraft.common.toml.title": "PathwayCraft Configs",
+  "pathwaycraft.configuration.items": "Item List",
+  "pathwaycraft.configuration.logDirtBlock": "Log Dirt Block",
+  "pathwaycraft.configuration.magicNumberIntroduction": "Magic Number Text",
+  "pathwaycraft.configuration.magicNumber": "Magic Number"
+}
