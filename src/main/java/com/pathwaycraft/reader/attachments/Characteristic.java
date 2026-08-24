@@ -8,6 +8,7 @@ public record Characteristic(
         float digestion,
         boolean active,
         UUID owner,
-        UUID target
+        UUID target,
+        UUID origin
 ) {
 }
