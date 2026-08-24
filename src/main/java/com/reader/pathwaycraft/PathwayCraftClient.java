@@ -1,4 +1,4 @@
-package com.pathwaycraft.reader;
+package com.reader.pathwaycraft;
 
 import net.minecraft.client.Minecraft;
 import net.neoforged.api.distmarker.Dist;

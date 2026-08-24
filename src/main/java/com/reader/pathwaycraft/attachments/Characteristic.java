@@ -1,4 +1,4 @@
-package com.pathwaycraft.reader.attachments;
+package com.reader.pathwaycraft.attachments;
 
 import java.util.UUID;
 
